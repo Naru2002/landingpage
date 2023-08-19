@@ -1,2 +1,6 @@
-# landingpage
-Codsoft
+![landimg1](https://github.com/Naru2002/landingpage/assets/107515156/8f985b4d-1c1e-4a10-934a-e90f3b1f2b30)
+![landimg2](https://github.com/Naru2002/landingpage/assets/107515156/32c3dc5c-53d9-4c6d-bafd-56ffc4a4d06e)
+![landimg3](https://github.com/Naru2002/landingpage/assets/107515156/aeb27bea-9d19-43f4-9a71-d659c061cc4e)
+![landimg4](https://github.com/Naru2002/landingpage/assets/107515156/c470f48c-6d76-40d4-9c4b-01371139694d)
+![landimg5](https://github.com/Naru2002/landingpage/assets/107515156/cfccfbb8-7603-4ffd-b08b-f770fc2340ea)
+![landimg6](https://github.com/Naru2002/landingpage/assets/107515156/110854c8-2588-4cda-a8ec-abf59bf84580)
